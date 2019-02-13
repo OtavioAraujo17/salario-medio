@@ -1,0 +1,7 @@
+C:\Users\Otavio\Desktop\curso 2\Salario medio\Salario medio\bin\Debug\Salario medio.exe.config
+C:\Users\Otavio\Desktop\curso 2\Salario medio\Salario medio\bin\Debug\Salario medio.exe
+C:\Users\Otavio\Desktop\curso 2\Salario medio\Salario medio\bin\Debug\Salario medio.pdb
+C:\Users\Otavio\Desktop\curso 2\Salario medio\Salario medio\obj\Debug\Salario medio.csproj.CoreCompileInputs.cache
+C:\Users\Otavio\Desktop\curso 2\Salario medio\Salario medio\obj\Debug\Salario medio.exe
+C:\Users\Otavio\Desktop\curso 2\Salario medio\Salario medio\obj\Debug\Salario medio.pdb
+C:\Users\Otavio\Desktop\curso 2\Salario medio\Salario medio\obj\Debug\Salario medio.csprojAssemblyReference.cache
